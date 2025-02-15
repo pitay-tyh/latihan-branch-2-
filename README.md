@@ -1,2 +1,2 @@
 # latihan-branch-2-
-YANG INI AJA
+hmm ganti aja
